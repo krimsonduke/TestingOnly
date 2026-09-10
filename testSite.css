@@ -11,7 +11,7 @@ body {
 
 /* Style the content card container */
 .card {
-    background-color: #f3c163;
+    background-color: #ffffff;
     padding: 30px;
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
@@ -21,7 +21,7 @@ body {
 
 /* Style the main title */
 h1 {
-    color: #c28d7c;
+    color: #333333;
     margin-bottom: 10px;
 }
 
