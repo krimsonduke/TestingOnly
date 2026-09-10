@@ -14,6 +14,6 @@ document.addEventListener("DOMContentLoaded", () => {
         heading.style.color = "#28a745"; 
 
         // Pop up a quick alert browser message
-        alert("Success! Your JavaScript code is working.");
+        alert("Don't be a jerk. Push the damn button.");
     });
 });
